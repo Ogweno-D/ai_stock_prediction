@@ -4,3 +4,5 @@ These are the links an example that is predicting Apple Stock Price.
 
 Kaggle: https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
 Github: https://github.com/fares-ds/Predicting-the-closing-stock-price-of-APPLE-using-LSTM/blob/ce693c2b31e4fff90e2727be15defec1ee163e5b/stock-market-analysis-prediction-using-lstm.ipynb
+
+After reading the project: Think of the requirements we would need for the project and write what you think we would need for our project.
