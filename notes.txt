@@ -12,3 +12,21 @@ There is much available data.
 
 #Settle on which company we are predicting the stocks for.
 # Choose the varous libraries we weill need for the project.
+
+/* Ghost */
+pandas 
+numpy 
+matplotlib.pyplot
+seaborn
+pandas_datareader
+yfinance
+
+# For Visualization, we can use pairplot
+
+-- Since pur project is mainly prediction, then it'll need alot of visualization  buana. Na so far sijapata any models we will use juu all the functions used are in built in python.
+-- One of the variable we need to check on stock market prediction is:
+    # Closing Price.
+    # Volume of Sales
+    # Moving average of the various stocks
+    # Daily return of the stock on average
+    # What was the correlation between different stocks closing prices?
