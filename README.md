@@ -1,3 +1,4 @@
-# ai_stock_prediction
+## STOCK PREDICTION
 
-Stock prediction using the various available datasets and python libraries.
+# Stock prediction using  various available datasets and python libraries.
+
